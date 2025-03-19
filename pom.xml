@@ -8,7 +8,7 @@
 		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.org</groupId>
+	<groupId>com.org.aws</groupId>
 	<artifactId>aws-elasticbeanstalk-example</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
